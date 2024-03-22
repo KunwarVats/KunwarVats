@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunwar Vats</h1>
 <h3 align="center">Data Engineer | Data Analyst | iOS Developer</h3>
 
-- 📝 I regularly write articles on [Data Engineering, data analysis and iOS app development](Data Engineering, data analysis and iOS app development)
+- 📝 I regularly write articles on Data Engineering, data analysis, and iOS app development.
 
 - 📫 How to reach me **vatskunwar@gmail.com**
 
