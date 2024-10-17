@@ -1,4 +1,4 @@
-![logo](https://github.com/KunwarVats/KunwarVats/blob/main/DATA%20ENGINEER.png)
+![logo](https://github.com/KunwarVats/KunwarVats/blob/main/vatskunwar@gmail.com.png)
 
 <h1 align="center">Hi 👋, I'm Kunwar Vats</h1>
 <h3 align="center">iOS Developer</h3>
