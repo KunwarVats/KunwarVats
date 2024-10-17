@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on iOS app development
 
-- 📫 How to reach me +1 **(416) 854-9840** **vatskunwar@gmail.com**
+- 📫 How to reach me +1 **(416) 854-9840** | **vatskunwar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
