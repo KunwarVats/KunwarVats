@@ -1,15 +1,15 @@
 ![logo](https://github.com/KunwarVats/KunwarVats/blob/main/DATA%20ENGINEER.png)
 
 <h1 align="center">Hi 👋, I'm Kunwar Vats</h1>
-<h3 align="center">Data Engineer | Data Analyst | iOS Developer</h3>
+<h3 align="center">iOS Developer</h3>
 
-- 📝 I regularly write articles on Data Engineering, data analysis, and iOS app development
+- 📝 I regularly write articles on iOS app development
 
-- 📫 How to reach me **vatskunwar@gmail.com**
+- 📫 How to reach me +1 **(416) 854-9840** **vatskunwar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunwar-vats-can" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunwar-vats-can" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ioskunwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunwar-vats-can" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
