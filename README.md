@@ -1,9 +1,9 @@
 ![logo](https://github.com/KunwarVats/KunwarVats/blob/main/vatskunwar@gmail.com.png)
 
 <h1 align="center">Hi 👋, I'm Kunwar Vats</h1>
-<h3 align="center">iOS Developer</h3>
+<h3 align="center">Mobile App Developer</h3>
 
-- 📝 I regularly write articles on iOS app development
+- 📝 I regularly write articles on Mobile app development
 
 - 📫 How to reach me +1 **(416) 854-9840** | **vatskunwar@gmail.com**
 
