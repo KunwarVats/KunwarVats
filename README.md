@@ -7,6 +7,13 @@
 
 - 📫 How to reach me +1 **(416) 854-9840** | **vatskunwar@gmail.com**
 
+- OmniCard is India's 1st Omnichannel spending platform, created to make payments simple, secure, and seamless. OmniCard brings you UPI Payments, Cards, and Cash together without a bank account. [OmniCard](https://apple.co/3yUDwef)
+
+- Burn gives you access to the best fitness studios around you, with one membership. Explore, discover and book for the fitness classes you've always wanted to try, at the time, you've always wanted to have. Whether it's yoga, boxing, spinning, crossfit, functional training, you can find it, and more. [Lets Burn](https://apple.co/4dCpcq1)
+
+- Grow your business with P5M. List your open spots in classes to get new clients and increase your monthly revenue. [P5M Business](https://apple.co/470Hpei)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ioskunwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ioskunwar" height="30" width="40" /></a>
